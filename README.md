@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps. I come from Hanoi, Vietnam.
 - 🌱 I’m currently learning Java, Git, Github, Docker, LAMP, wordpress, AWS cloud computing.
 - 💞️ I’m looking for a job relating to DevOps.
-- 📫 How to reach me at email address: vanbinhtelecom@gmail.com or phone mobile number in vietnam: +84335992358.
+- 📫 How to reach me at email address: vanbinhtelecom@gmail.com.
 - Thank you.
 
 <!---
